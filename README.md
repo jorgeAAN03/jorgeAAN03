@@ -4,8 +4,17 @@
 </div>
 
  
-# 💫 About Me:
-"Estudiante dedicado de Ingeniería en Ciencias Informáticas, con 20 años de edad y una pasión innata por el desarrollo de software en Java. Comprometido con la excelencia técnica y la mejora continua, busco desafíos que estimulen mi aprendizaje y me permitan crecer tanto a nivel individual como en equipos colaborativos. Con una sólida base en programación y un enfoque meticuloso en la creación de soluciones innovadoras, aspiro a contribuir al mundo de la informática con creatividad y competencia técnica. Abierto a la colaboración y al intercambio de conocimientos, estoy ansioso por enfrentar nuevos retos y explorar nuevas fronteras en el desarrollo de software. ¡Uniendo esfuerzos para alcanzar metas más allá de lo imaginable en el mundo digital!"
+  ##        💫 About Me:
+
+  🌟 Soy un estudiante dedicado de Ingeniería en Ciencias Informáticas, con 20 años de edad y una pasión innata por el desarrollo de software en Java.
+
+  ⚡️ Soy comprometido con la excelencia técnica y la mejora continua, busco desafíos que estimulen mi aprendizaje y me permitan crecer tanto a nivel individual como        en equipos colaborativos. 
+
+  🧠 Tengo una sólida base en programación y un enfoque meticuloso en la creación de soluciones innovadoras, aspiro a contribuir al mundo de la informática con             creatividad y competencia técnica. 
+  
+  🔥 Estoy abierto a la colaboración y al intercambio de conocimientos, estoy ansioso por enfrentar nuevos retos y explorar nuevas fronteras en el desarrollo de            software.        
+  
+  👨‍💻 ¡Uniendo esfuerzos para alcanzar metas más allá de lo imaginable en el mundo digital!"
 
 
 # 💻 Tech Stack:
