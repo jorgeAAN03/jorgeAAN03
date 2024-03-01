@@ -4,7 +4,7 @@
 </div>
 
  
-  ##        💫 About Me:
+  ## 💫 About Me:
 
   🌟 Soy un estudiante dedicado de Ingeniería en Ciencias Informáticas, con 20 años de edad y una pasión innata por el desarrollo de software en Java.
 
@@ -17,7 +17,7 @@
   👨‍💻 ¡Uniendo esfuerzos para alcanzar metas más allá de lo imaginable en el mundo digital!"
 
 
-# 💻 Tech Stack:
+# 💻 Tecnologies:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jorgeAAN03&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
