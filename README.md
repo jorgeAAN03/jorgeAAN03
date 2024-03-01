@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hola, soy Jorge Aldana 👋</h1>
+  <img src=""> 
 </div>
 
  
